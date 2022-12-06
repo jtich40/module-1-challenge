@@ -6,4 +6,4 @@ This assignment takes the original codebase for Horiseon's website and updates i
 
 https://jtich40.github.io/module-1-challenge/
 
-https://user-images.githubusercontent.com/116316302/206022279-45d28b23-38cd-4099-999b-d7ca510e574f.png
+![image](https://user-images.githubusercontent.com/116316302/206030610-17151992-b426-49b9-a4cb-714e6cc5913b.png)
