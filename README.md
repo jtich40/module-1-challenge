@@ -11,4 +11,4 @@ Below is a link to the deployed website and accompanying screenshots.
 https://jtich40.github.io/module-1-challenge/
 
 ![image](https://user-images.githubusercontent.com/116316302/206030610-17151992-b426-49b9-a4cb-714e6cc5913b.png)
-![image](https://user-images.githubusercontent.com/116316302/206325563-8710888d-47f9-469b-b6d3-6dd84bc791b8.png)
+![image](https://user-images.githubusercontent.com/116316302/206326424-e207334a-9902-419d-9117-c1ba663d8cca.png)
