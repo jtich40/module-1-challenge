@@ -1,4 +1,4 @@
-# Module 1 Challenge Assignment
+# Refactoring HTML for Accessibility
 
 ## Description
 
